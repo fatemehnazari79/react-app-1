@@ -1,0 +1,14 @@
+.containerContant{
+background-color: rgb(153, 177, 222);
+height: 500px;
+}
+.containerContant p {
+    color: rgb(20, 29, 158);
+    padding-left: 20px;
+    width: 800px;
+
+}
+.containerContant h1{
+    margin: auto;
+    color: rgb(10, 10, 152);
+}
